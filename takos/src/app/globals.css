@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.root {
+  font-family: 'Roboto', sans-serif;
+  background-color: linear-gradient(45deg, #96efa3, #26a0da, #0e06fd);
+  color: #ffffff;
+}
+
+.text-10xl {
+  font-size: 10rem;
+}
